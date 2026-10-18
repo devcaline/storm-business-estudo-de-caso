@@ -10,6 +10,7 @@ Projeto para cliente real, do briefing à publicação.
 > A Storm é uma empresa **real**, sediada em Salvador/BA. Nos prints, telefone
 > e e-mail aparecem como dados de exemplo. Este repositório mostra o resultado e
 > o raciocínio do projeto; **o código-fonte fica em um repositório privado.**
+> A versão para consulta está no [portfólio da DevCraft](https://portifolio.devcraft.dev.br/storm/).
 
 ---
 
@@ -223,6 +224,7 @@ seções de cards e formulário em coluna única.
 | **Front-end** | React, TypeScript, Vite, Tailwind CSS, shadcn/ui, Framer Motion |
 | **Back-end** | PHP para o envio do formulário |
 | **Hospedagem** | Hostinger |
+| **Site** | [portifolio.devcraft.dev.br/storm](https://portifolio.devcraft.dev.br/storm/) |
 | **Código** | repositório privado |
 
 ---
